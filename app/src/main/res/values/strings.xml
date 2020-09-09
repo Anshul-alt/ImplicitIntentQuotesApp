@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Implicit Intent Quotes App</string>
+    
+
+    <string name="truthquote">Truth Quote</string>
+
+    <string name="quote">Never be afraid to raise your voice for honesty and truth and compassion against
+        injustice and lying and greed. If people all over the world would do this, it would
+        change the earth.
+
+    </string>
+</resources>
